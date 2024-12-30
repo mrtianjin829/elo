@@ -7,4 +7,4 @@ A simple implementation of the ELO rating system in Nim. The ELO system is widel
 
 ## Requirements
 - Nim >= 2.0.4 
-  Ensure Nim is installed on your syste.
+  Ensure Nim is installed on your system.
